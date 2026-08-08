@@ -1,5 +1,5 @@
 # Nigerian Drug Safety News Intelligence Using NLP
-
+https://chizix-drug-safety-intelligence.streamlit.app/
 ## Project Overview
 
 This project applies Natural Language Processing (NLP) techniques to analyze Nigerian drug safety news articles, identify major themes, and uncover hidden patterns related to counterfeit medicines, medicine safety, regulatory enforcement, and pharmacovigilance.
